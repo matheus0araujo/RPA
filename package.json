@@ -1,0 +1,25 @@
+{
+  "name": "rpa",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000P\u0000A\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus0araujo/RPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus0araujo/RPA/issues"
+  },
+  "homepage": "https://github.com/matheus0araujo/RPA#readme",
+  "dependencies": {
+    "@nesk/rialto": "^1.4.0",
+    "lodash": "^4.17.21",
+    "puppeteer": "^24.30.0"
+  }
+}

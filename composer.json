@@ -1,0 +1,13 @@
+{
+    "name": "matheus/rpa",
+    "description": "RPA em PHP usando PuPHPeteer",
+    "type": "project",
+    "require": {
+        "nesk/puphpeteer": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RPA\\": "src/"
+        }
+    }
+}
